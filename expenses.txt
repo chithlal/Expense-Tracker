@@ -1,0 +1,3 @@
+amount,category,description
+100.0,food,zomato
+200.0,Shoping,Decathlon
